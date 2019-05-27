@@ -4,7 +4,7 @@
 <img width="W" height="H" src="banner image">
 <BR>
 
-Paragraph
+Coming Soon ...
 
 <P>Video: https://www.youtube.com/watch?v=
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
