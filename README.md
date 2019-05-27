@@ -10,7 +10,7 @@ Paragraph
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
 <BR>&nbsp;&nbsp;&nbsp;Book 1:
 <BR>&nbsp;&nbsp;&nbsp;Book 2:
-<P>Parts List: .xml
+<P>Parts List: https://raw.githubusercontent.com/rykfield/MOD03-Tower-Bridge/master/MOD03%20-%20Tower%20Bridge.xml
 
 <P>
 <img src="gif-construction-file?">
