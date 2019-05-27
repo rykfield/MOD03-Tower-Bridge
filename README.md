@@ -4,8 +4,7 @@
 <img width="878" height="465" src="https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/MOD03%20-%20Tower%20Bridge%20(Banner).jpg">
 <BR>
 
-
-Coming Soon ...
+The Tower Bridge GBC uses the official lego set 10214 as the basis of its decorative construction.  At its core is a modified Brickworld 2018 Ball Pump, which drives the balls up the left tower, to the front transfer beam, where gravity takes them across and down the right tower.
 
 <P>Video: https://www.youtube.com/watch?v=dplNTJEaAOY
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
