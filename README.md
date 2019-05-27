@@ -6,7 +6,8 @@
 
 The Tower Bridge GBC uses the official lego set 10214 as the basis of its decorative construction.  At its core is a modified Brickworld 2018 Ball Pump, which drives the balls up the left tower, to the front transfer beam, where gravity takes them across and down the right tower.
 
-<P>Video: https://www.youtube.com/watch?v=dplNTJEaAOY
+<P>To see this GBC operating, watch the short video of the BrisBricks Morayfield 2019 GBC at https://youtu.be/5sTwuCe3dzM
+
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
 <BR>&nbsp;&nbsp;&nbsp;Book 1:
 <BR>&nbsp;&nbsp;&nbsp;Book 2:
