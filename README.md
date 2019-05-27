@@ -14,7 +14,7 @@ Coming Soon ...
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD03-Tower-Bridge/master/MOD03%20-%20Tower%20Bridge.xml
 
 <P>
-<img src="gif-construction-file?">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dplNTJEaAOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
