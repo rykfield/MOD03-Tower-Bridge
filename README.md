@@ -9,6 +9,7 @@ The Tower Bridge GBC uses the official lego set 10214 as the basis of its decora
 <P>To see this GBC operating, watch the short video of the BrisBricks Morayfield 2019 GBC at https://youtu.be/5sTwuCe3dzM
 
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
+<BR>
 <BR>&nbsp;&nbsp;&nbsp;Book 1: https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/MOD03%20-%20Tower%20Bridge-Book-1.pdf
 <BR>&nbsp;&nbsp;&nbsp;Book 2: https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/MOD03%20-%20Tower%20Bridge-Book-2.pdf
 
