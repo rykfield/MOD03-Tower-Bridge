@@ -1,7 +1,7 @@
 <a name="README"></a>
 # MOD03-Tower-Bridge
 
-<img width="W" height="H" src="banner image">
+<img width="1094" height="580" src="https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/MOD03%20-%20Tower%20Bridge%20(Banner).jpg">
 <BR>
 
 Coming Soon ...
