@@ -7,14 +7,15 @@
 
 Coming Soon ...
 
-<P>Video: https://www.youtube.com/watch?v=
+<P>Video: https://www.youtube.com/watch?v=dplNTJEaAOY
 <P>Instructions: Two PDF books, due to file size limits on GitHub.
 <BR>&nbsp;&nbsp;&nbsp;Book 1:
 <BR>&nbsp;&nbsp;&nbsp;Book 2:
 <P>Parts List: https://raw.githubusercontent.com/rykfield/MOD03-Tower-Bridge/master/MOD03%20-%20Tower%20Bridge.xml
 
 <P>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dplNTJEaAOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img width="480" height="360" src="https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/Tower%20Bridge%20-%20Build%20Animation.gif">
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
